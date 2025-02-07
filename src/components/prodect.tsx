@@ -93,7 +93,7 @@ const Products = () => {
     <section className="py-12 px-6 lg:px-16 text-white">
       <div className="text-center mb-8">
         <p className="text-blue-400 font-semibold uppercase text-sm">Products</p>
-        <h2 className="text-3xl font-bold">Check What's New</h2>
+        <h2 className="text-3xl font-bold">Check What&apos;s New</h2>
       </div>
 
       <div className="max-w-[1080px] mx-auto overflow-hidden">
